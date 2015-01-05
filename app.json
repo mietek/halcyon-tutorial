@@ -1,0 +1,13 @@
+{
+  "name": "halcyon-tutorial",
+  "description": "Companion app for the Halcyon tutorial",
+  "logo": "https://halcyon.sh/logo.svg",
+  "repository": "https://github.com/mietek/halcyon-tutorial",
+  "env": {
+    "TUTORIAL_HOME": {
+      "description": "Welcome message",
+      "required": false,
+      "value": "Welcome to Halcyon"
+    }
+  }
+}
